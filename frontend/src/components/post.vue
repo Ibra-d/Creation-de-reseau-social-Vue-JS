@@ -4,6 +4,7 @@
       <div
         class="
           home
+          ax
           col-xs-12 col-md-10 col-lg-6
           d-flex
           flex-row
